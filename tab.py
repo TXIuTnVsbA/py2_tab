@@ -6,7 +6,7 @@ import atexit
 import os    
 readline.parse_and_bind('tab: complete')   
 # windows
-#histfile = os.path.join(os.environ['HOMEPATH'], '.pythonhistory')   
+# histfile = os.path.join(os.environ['HOMEPATH'], '.pythonhistory')   
 # linux
 # histfile = os.path.join(os.environ['HOME'], '.pythonhistory')   
 try:   
